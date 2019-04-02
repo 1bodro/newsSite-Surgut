@@ -1,5 +1,12 @@
 # newsSite-Surgut
 
+demo:
+- http://surgut.kl.com.ua/index.html (главная страница)
+- http://surgut.kl.com.ua/news.html
+- http://surgut.kl.com.ua/post.html
+- http://surgut.kl.com.ua/opinions.html
+- http://surgut.kl.com.ua/longread.html
+
 Участие в крупном проекте - новостной портал для города Сургут. Моя задача заключалась в вертске и адаптации десктопного дизайна под все устройства.
 
 Произведена верстка для cms Битрикс по шаблону в figma. Выполнено:
